@@ -1,5 +1,5 @@
 
-#collect +/ 20 sequecne of cys
+#collect +/- 20 sequecne of cys
 ../../scripts/get_align.py ../../databases/sprot-ECOLI-K12.fasta
 
 #extract features
