@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import sys
 #get 40 resi around cys
 seq = open(sys.argv[1], 'r').readlines()
