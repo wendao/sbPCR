@@ -39,7 +39,3 @@ svm-predict formated_input ../../models/train_v1.model predict
 ```
 ../../scripts/get_highact.py
 ```
-
-## Training your own model
-
-TODO
